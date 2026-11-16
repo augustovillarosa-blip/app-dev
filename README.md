@@ -1,2 +1,1 @@
-# app-dev
-My first repository
+` Blue Lock The Movie: Episode Nagi - Is an anime about Soccer Sports. And this story retells the events of the franchise's first season from the perspective of Seishiro Nagi, a naturally gifted high school prodigy who initially lives a dull, apathetic life.`
